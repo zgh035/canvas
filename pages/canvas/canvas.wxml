@@ -1,0 +1,5 @@
+
+
+<canvas canvas-id="canvas" class="canvas" style="width:500px;height:500px"></canvas>
+
+<canvas canvas-id="column" class="canvas" style="width:500px;height:500px"></canvas>
